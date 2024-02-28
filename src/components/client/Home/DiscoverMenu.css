@@ -1,0 +1,130 @@
+ .discoverMenu {
+     background: url('https://preview.colorlib.com/theme/pato/images/icons/pattern2.png.webp');
+     padding: 100px 200px;
+ }
+
+ .discoverMenu p {
+     color: red;
+     font-size: 30px;
+
+ }
+.discoverDivs{
+    margin: 40px 0;
+}
+ .discoverMenu h2 {
+     font-size: 50px;
+     word-spacing: 15px;
+     letter-spacing: 10px;
+ }
+
+ .first4 {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+ }
+
+ .LunchDinner {
+     width: 66%;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+ }
+
+ .lunch {
+     position: relative;
+
+     border-radius: 10px;
+     overflow: hidden;
+     width: 48%;
+     height: 500px;
+     background: url('https://preview.colorlib.com/theme/pato/images/our-menu-01.jpg.webp') center/cover;
+ }
+
+ .dinner {
+     position: relative;
+
+     border-radius: 10px;
+     overflow: hidden;
+     width: 48%;
+     height: 500px;
+     background: url('https://preview.colorlib.com/theme/pato/images/our-menu-05.jpg.webp') center/cover;
+ }
+
+ .DrinkStart {
+     width: 32%;
+     display: flex;
+     flex-wrap: wrap;
+     flex-direction: column;
+     justify-content: space-between;
+ }
+
+ .drinks {
+     position: relative;
+
+     border-radius: 10px;
+     overflow: hidden;
+     width: 100%;
+     height: 230px;
+     background: url('https://preview.colorlib.com/theme/pato/images/our-menu-08.jpg.webp') center/cover;
+ }
+
+ .start {
+     position: relative;
+
+     border-radius: 10px;
+     overflow: hidden;
+     width: 100%;
+     height: 230px;
+     background: url('https://preview.colorlib.com/theme/pato/images/our-menu-10.jpg.webp') center/cover;
+ }
+
+ .HappyDesert {
+     width: 100%;
+     display: flex;
+     flex-wrap: wrap;
+     flex-wrap: wrap;
+     justify-content: space-between;
+
+ }
+
+ .happy {
+     position: relative;
+
+     margin-top: 30px;
+     border-radius: 10px;
+     overflow: hidden;
+     width: 66%;
+     height: 230px;
+     background: url('https://preview.colorlib.com/theme/pato/images/our-menu-13.jpg.webp') center/cover;
+
+ }
+
+ .desert {
+     position: relative;
+
+     margin-top: 30px;
+     border-radius: 10px;
+     overflow: hidden;
+     width: 32%;
+     height: 230px;
+     background: url('https://preview.colorlib.com/theme/pato/images/our-menu-16.jpg.webp') center/cover;
+ }
+
+ .btn {
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+     display: block;
+     padding: 18px 25px;
+     border: none;
+     border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.874);
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+ }
+ .btn:hover{
+    background-color: rgba(255, 0, 0, 0.845);
+    color: white
+ }

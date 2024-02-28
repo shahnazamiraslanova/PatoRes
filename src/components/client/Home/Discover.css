@@ -1,0 +1,20 @@
+.discover{
+    background: url('https://preview.colorlib.com/theme/pato/images/bg-intro-01.jpg.webp');
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.discover p{
+    color: red;
+    font-size:  30px;
+    
+}
+.discover h2{
+    color: white;
+    font-size: 50px;
+    word-spacing: 15px;
+    letter-spacing: 10px;
+}

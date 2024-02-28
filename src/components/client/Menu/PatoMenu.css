@@ -1,0 +1,13 @@
+.begin{
+    background: url('https://preview.colorlib.com/theme/pato/images/bg-title-page-01.jpg.webp') center/cover;
+    height: 75vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.begin h1{
+    font-size: 50px;
+    letter-spacing: 10px;
+}

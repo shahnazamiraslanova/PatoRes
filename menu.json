@@ -1,0 +1,91 @@
+{
+  "categories": [
+      {
+          "id": 1,
+          "name": "main"
+      },
+      {
+          "id": 1,
+          "name": "dessert"
+      },
+      {
+          "id": 1,
+          "name": "drinks"
+      }
+  ],
+  "products": [
+      {
+          "id": 1,
+          "name": "Paxlava",
+          "img": "https://azza.az/wp-content/uploads/2020/07/lv5a5577-2-kopiya.jpg",
+          "info": "Paxlava is very good ",
+          "category_name": "dessert",
+          "price": 15
+      },
+      {
+          "id": 2,
+          "name": "Chocolate Muffin",
+          "img": "https://i.lezzet.com.tr/images-xxlarge-recipe/findikli-cikolatali-muffin-af94aa03-f32e-4b59-b51a-83c0731374ad.jpg",
+          "info": "Muffin is very good ",
+          "category_name": "dessert",
+          "price": 12
+      },
+      {
+          "id": 3,
+          "name": "Cheese Cake",
+          "img": "https://houseofnasheats.com/wp-content/uploads/2022/10/Best-Easy-Cheesecake-Recipe-1.jpg",
+          "info": "Cheese is very good ",
+          "category_name": "dessert",
+          "price": 18
+      },
+      {
+          "id": 4,
+          "name": "Oleato™ Gingerbread Oatmilk Latte",
+          "img": "https://globalassets.starbucks.com/digitalassets/products/bev/OleatoGingerbreadLatte.jpg?impolicy=1by1_wide_topcrop_630",
+          "info": "Oleato™ Gingerbread Oatmilk Latte is very good ",
+          "category_name": "drinks",
+          "price": 17
+      },
+      {
+          "id": 5,
+          "name": "Oleato™ Iced Shaken Espresso with Oatmilk and Toffeenut",
+          "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Oleato_ToffeeNut_ShakenEspresso.jpg?impolicy=1by1_wide_topcrop_630",
+          "info": "Oleato™ Iced Shaken Espresso with Oatmilk and Toffeenut is very good ",
+          "category_name": "drinks",
+          "price": 18
+      },
+      {
+          "id": 6,
+          "name": "Pumpkin Cream Cold Brew",
+          "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20220323_PumpkinCreamColdBrew-onGreen.jpg?impolicy=1by1_wide_topcrop_630",
+          "info": "Pumpkin Cream Cold Brew  is very good ",
+          "category_name": "drinks",
+          "price": 18
+      },
+      {
+          "id": 7,
+          "name": "Burger",
+          "img": "https://www.foodandwine.com/thmb/DI29Houjc_ccAtFKly0BbVsusHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/crispy-comte-cheesburgers-FT-RECIPE0921-6166c6552b7148e8a8561f7765ddf20b.jpg",
+          "info": "Burger is very good ",
+          "category_name": "main",
+          "price": 13
+      },
+      {
+          "id": 8,
+          "name": "Kumpir",
+          "img": "https://cdn.yemek.com/mnresize/1250/833/uploads/2021/03/kumpir-yemekcom.jpg",
+          "info": "Kumpir is very good ",
+          "category_name": "main",
+          "price": 14
+      },
+      {
+          "id": 9,
+          "name": "Pizza",
+          "img": "https://pizzamizza.az/upload/iblock/ef1/ef101bab9b1423ec8fab06c27a418082.jpg?1617617212117790",
+          "info": "Pizza is very good ",
+          "category_name": "main",
+          "price": 20
+      }
+
+  ]
+}

@@ -1,0 +1,22 @@
+.cards{
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 200px;
+    background-color: white;
+}
+.ant-card{
+    border: none;
+}
+.ant-card-body{
+    padding: 0;
+}
+.ant-card-cover {
+    overflow: hidden;
+    border-radius: 10px;
+}
+.ant-card-meta-description{
+    margin: 15px 0;
+}
+.cards a{
+    color: #666;
+}

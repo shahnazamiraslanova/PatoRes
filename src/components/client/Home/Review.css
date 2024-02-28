@@ -1,0 +1,97 @@
+#app {
+    height: 100%;
+}
+
+html,
+body {
+    position: relative;
+    height: 100%;
+}
+
+body {
+    background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+#swiperrr{
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: flex;
+    flex-direction: column;
+    padding: 50px 200px;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+p {
+    color: red;
+    font-size: 30px;
+    padding-top: 50px;
+}
+
+h2 {
+    font-size: 50px;
+    padding: 10px;
+}
+
+.review {
+    background-color: white;
+    height: 60vh;
+}
+
+.sliderImg1 {
+    background: url('https://preview.colorlib.com/theme/pato/images/avatar-05.jpg.webp') center/cover;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid red;
+}
+
+.sliderImg2 {
+    background: url('https://preview.colorlib.com/theme/pato/images/avatar-01.jpg.webp') center/cover;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid red;
+}
+
+.sliderImg3 {
+    background: url('https://preview.colorlib.com/theme/pato/images/avatar-04.jpg.webp') center/cover;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid red;
+}
+
+.userThinks {
+    color: #666;
+    font-size: 18px;
+    padding: 20px 0;
+
+
+}
+
+.userName {
+    color: #666;
+    font-size: 15px;
+    padding: 0;
+}

@@ -1,0 +1,10 @@
+.drink{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+
+}
+#meal1{
+    padding: 100px 200px;
+    text-align: center;
+}

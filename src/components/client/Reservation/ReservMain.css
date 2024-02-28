@@ -1,0 +1,65 @@
+.reservation{
+    background: url('https://preview.colorlib.com/theme/pato/images/icons/pattern1.png.webp') center/cover;
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 200px;
+}
+.reservation-form {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.one-div{
+    
+    width: 100%;
+}
+/* .form-column {
+    width: 48%;
+} */
+.divForm{
+    width: 40%;
+}
+.divForm p{
+    color: red;
+    font-size: 30px;
+}
+.divForm h2 {
+    font-size: 50px;
+    margin-bottom: 20px;
+    
+}
+
+.form-column label {
+    color: #a1a0a0;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-column input,
+.form-column select {
+    border: none;
+    border-radius: 10px;
+    width: 100%;
+    padding:15px 40px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    outline: 1PX solid #a1a0a0;
+    
+}
+.form-column select{
+    width: 100%
+}
+
+.submit-button {
+    display: block;
+    margin: 10px auto;
+    width: 30%;
+    padding: 15px;
+background-color: black;
+   color: #fff;
+    border: none;
+    border-radius: 10px;    cursor: pointer;
+}
+.img{
+    width: 40%;
+}
